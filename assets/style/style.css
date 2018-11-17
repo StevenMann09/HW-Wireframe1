@@ -71,6 +71,7 @@
     color: #777;
     height: 10%;
     width: 80%;
+    font-weight: bold;
  }
  
  .headerP {
@@ -91,7 +92,8 @@
     float: left;
     width: 416px;
     padding: 10px;
-    height: 250px;
+    padding-top: 30px;
+    height: 230px;
     margin-left: 8px;
     text-align: center;
     background-color: #ebebeb;
@@ -103,10 +105,13 @@
     background-color: #ebebeb;
     text-align: center;
     padding: 10px;
+    padding-top: 20px;
     margin-top: 20px;
     margin-right: 10px;
+    margin-bottom: 20px;
     width: 98%;
     clear: both;
     color: #777;
+    height: 50px;
  }
  
